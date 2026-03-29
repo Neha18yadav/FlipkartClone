@@ -12,6 +12,13 @@ A full-stack e-commerce web application that closely replicates Flipkart's desig
 | **ORM** | Sequelize |
 | **Styling** | Vanilla CSS |
 
+## Deployment
+
+| Service | URL |
+|---------|-----|
+| **Frontend** | [https://flipkart-clone-assign.vercel.app/](https://flipkart-clone-assign.vercel.app/) |
+| **Backend** | [https://flipkartclone-fuwn.onrender.com](https://flipkartclone-fuwn.onrender.com) |
+
 ## Features
 
 ### Core Features
