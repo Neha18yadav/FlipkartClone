@@ -1,0 +1,16 @@
+{
+  "name": "flipkart-clone",
+  "version": "1.0.0",
+  "description": "Flipkart Clone Monorepo",
+  "scripts": {
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm start",
+    "seed": "cd server && npm run seed",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
