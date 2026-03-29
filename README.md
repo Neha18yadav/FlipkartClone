@@ -77,7 +77,6 @@ npm run seed
 # Start the server
 npm start
 ```
-Server runs on http://localhost:5000
 
 ### 4. Setup Frontend
 ```bash
@@ -85,7 +84,6 @@ cd client
 npm install
 npm run dev
 ```
-Frontend runs on http://localhost:5173
 
 ## API Endpoints
 
