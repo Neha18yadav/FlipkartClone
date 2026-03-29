@@ -58,7 +58,7 @@ const Footer = () => {
             <span>Advertise</span>
             <span>Gift Cards</span>
             <span>Help Center</span>
-            <span>© 2024 Flipkart Clone</span>
+            <span>© 2026 Flipkart Clone</span>
           </div>
         </div>
       </div>
